@@ -1,0 +1,11 @@
+name: ParticleChairs
+author: 60hp
+version: 1.0
+main: com.jjasoftware.particlechairs.main.Main
+description: ParticleChairs - made by 60hp
+
+commands:
+   particlechairs:
+      description: opens the ParticleChairs menu.
+   pc:
+      description: opens the ParticleChairs menu.
